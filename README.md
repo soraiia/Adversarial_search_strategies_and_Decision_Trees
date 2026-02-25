@@ -1,0 +1,2 @@
+# Adversarial_search_strategies_and_Decision_Trees
+Connect Four is a two-player strategy game similar to tic-tac-toe. It is played using 42 tokens, and a vertical grid that is 7 columns wide. Each column can hold a maximum of 6 tokens.The goal of this assignment is to implement the Monte Carlo Tree Search (MCTS) algorithms and a decision tree for each given dataset learned using the ID3 procedure.
